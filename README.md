@@ -14,6 +14,7 @@ The project involved developing an interactive dashboard with three main tabs: H
 
 ## Presentation -
 The [Presentation](https://github.com/user-attachments/files/16749838/E-COMMERCE.DASH.PRESENTATION.pdf) showcases key insights from the project, highlighting trends in sales performance, customer behavior, and product category effectiveness using data exploration and visualization processes, with an emphasis on actionable analysis drawn from the dataset.
+<br>
 ![E-COMMERCE DASH PRESENTATION_001](https://github.com/user-attachments/assets/f1bfdaba-60a4-4fa6-b63e-78b202296b56)
 ![E-COMMERCE DASH PRESENTATION_002](https://github.com/user-attachments/assets/3cab1cfe-e0f6-4d59-95f7-25e81a2bf9aa)
 ![E-COMMERCE DASH PRESENTATION_003](https://github.com/user-attachments/assets/92078621-2c85-4226-b899-2d8b80b3614b)
@@ -25,4 +26,3 @@ The [Presentation](https://github.com/user-attachments/files/16749838/E-COMMERCE
 ![E-COMMERCE DASH PRESENTATION_009](https://github.com/user-attachments/assets/4e2be634-faff-4a5e-9108-dbbaa97602c5)
 ![E-COMMERCE DASH PRESENTATION_010](https://github.com/user-attachments/assets/485a237e-5167-4775-8cc1-15a566dbb7d5)
 ![E-COMMERCE DASH PRESENTATION_011](https://github.com/user-attachments/assets/cf25a562-80a5-416f-8d51-3a8d57478ed9)
-![E-COMMERCE DASH PRESENTATION_012](https://github.com/user-attachments/assets/579d8808-93d1-45fc-ad8b-de4672e3b650)
