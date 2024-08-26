@@ -13,7 +13,7 @@ The project involved developing an interactive dashboard with three main tabs: H
 - Additional Tools: Ms Excel
 
 ## Presentation -
-The [Presentation](https://github.com/user-attachments/files/16749838/E-COMMERCE.DASH.PRESENTATION.pdf) showcases key insights from the project, highlighting trends in sales performance, customer behavior, and product category effectiveness using data exploration and visualization processes, with an emphasis on actionable analysis drawn from the dataset.<br>
+The [Presentation](https://github.com/user-attachments/files/16749838/E-COMMERCE.DASH.PRESENTATION.pdf) showcases key features of the dashboard, highlighting diffrerent elements in each tab and it's uses along with insights derived from each visuals withing tabs, with an emphasis on actionable measures that could be implemented.<br>
 <br>
 
 
