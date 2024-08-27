@@ -16,15 +16,16 @@ The project involved developing an interactive dashboard with three main tabs: H
 The [Presentation](https://github.com/user-attachments/files/16749838/E-COMMERCE.DASH.PRESENTATION.pdf) showcases key features of the dashboard, highlighting diffrerent elements in each tab and it's uses along with insights derived from each visuals withing tabs, with an emphasis on actionable measures that could be implemented.<br>
 <br>
 
-
-![E-COMMERCE DASH PRESENTATION_001](https://github.com/user-attachments/assets/f1bfdaba-60a4-4fa6-b63e-78b202296b56)
-![E-COMMERCE DASH PRESENTATION_002](https://github.com/user-attachments/assets/3cab1cfe-e0f6-4d59-95f7-25e81a2bf9aa)
-![E-COMMERCE DASH PRESENTATION_003](https://github.com/user-attachments/assets/92078621-2c85-4226-b899-2d8b80b3614b)
-![E-COMMERCE DASH PRESENTATION_004](https://github.com/user-attachments/assets/0b112c95-726b-4cec-86a9-ebb8d019b7d8)
-![E-COMMERCE DASH PRESENTATION_005](https://github.com/user-attachments/assets/b772c381-2258-43b6-a9ef-2daf0abf38f5)
-![E-COMMERCE DASH PRESENTATION_006](https://github.com/user-attachments/assets/4228f699-6001-4909-bfa0-20ed81d3f161)
-![E-COMMERCE DASH PRESENTATION_007](https://github.com/user-attachments/assets/06fa8160-456c-4018-8e13-ee5a5c26cdce)
-![E-COMMERCE DASH PRESENTATION_008](https://github.com/user-attachments/assets/225e1b3a-098e-4bc9-88fb-046cfba132d2)
-![E-COMMERCE DASH PRESENTATION_009](https://github.com/user-attachments/assets/4e2be634-faff-4a5e-9108-dbbaa97602c5)
-![E-COMMERCE DASH PRESENTATION_010](https://github.com/user-attachments/assets/485a237e-5167-4775-8cc1-15a566dbb7d5)
-![E-COMMERCE DASH PRESENTATION_011](https://github.com/user-attachments/assets/cf25a562-80a5-416f-8d51-3a8d57478ed9)
+![Project Presentation_001](https://github.com/user-attachments/assets/5d6bac5d-ae27-41ba-a98c-df31d1d50d7d)
+![Project Presentation_002](https://github.com/user-attachments/assets/ae588535-2615-42b7-a392-3576171b1d16)
+![Project Presentation_003](https://github.com/user-attachments/assets/0042593d-c0a8-4645-a306-de1b405a2bac)
+![Project Presentation_004](https://github.com/user-attachments/assets/aaea8599-0774-464c-a2e1-2abc7a839060)
+![Project Presentation_005](https://github.com/user-attachments/assets/7ec97aee-14af-4da0-9e55-95030c8bada6)
+![Project Presentation_006](https://github.com/user-attachments/assets/72e60fb2-fc44-4b21-a444-15b51a276cc6)
+![Project Presentation_007](https://github.com/user-attachments/assets/ad547a80-4ff2-4bd8-b2f3-eec5e11a2b0c)
+![Project Presentation_008](https://github.com/user-attachments/assets/f1679565-1885-42a6-b831-2ceaff382e45)
+![Project Presentation_009](https://github.com/user-attachments/assets/0b5aa721-aed2-4ca6-bcba-05902b15617f)
+![Project Presentation_010](https://github.com/user-attachments/assets/72eca803-d712-4b61-a6f7-c53b3e9e3349)
+![Project Presentation_011](https://github.com/user-attachments/assets/24e604b2-4138-40fd-b5d8-8c8ef2c9b0e1)
+![Project Presentation_012](https://github.com/user-attachments/assets/a1a081d7-c1bc-434c-b1f7-22cf39943a35)
+![Project Presentation_013](https://github.com/user-attachments/assets/09bd3443-8429-4d6a-a56f-f02eacb3f7de)
