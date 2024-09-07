@@ -17,7 +17,7 @@ The project involved developing an interactive dashboard with three main tabs: H
 - Additional Tools: Ms Excel
 
 ## Presentation -
-The [Presentation](https://github.com/subrotodutta21/Amazon_E-commerce_Dashboard/blob/e0c8aaf5264327446cec6e331db5326c34035fb2/Project%20Presentation.pdf) showcases key features of the dashboard, highlighting key insights derived during the project, with an emphasis on actionable measures that could be implemented.<br>
+The [Presentation](https://github.com/subrotodutta21/Amazon_E-commerce_Dashboard/blob/f43e39b8c0b1252df03f02e2dfc6cda2022d21cf/Project%20Presentation.pdf) showcases key features of the dashboard, highlighting key insights derived during the project, with an emphasis on actionable measures that could be implemented.<br>
 <br>
 
 ![E-COMMERCE DASH PRESENTAION_001](https://github.com/user-attachments/assets/366d5452-634d-40be-9d16-f8672a056cac)
