@@ -10,6 +10,10 @@ The project involved developing an interactive dashboard with three main tabs: H
 
 ## Tools used
 -  Power BI
+  - DAX
+  - Power Query
+  - Measures
+  - Filter Parameters
 - Additional Tools: Ms Excel
 
 ## Presentation -
